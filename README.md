@@ -17,19 +17,6 @@ Mining the Social Web
 * [Appendix B - OAuth Primer](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix B - OAuth Primer.html)
 * [Appendix C - Python & IPython Notebook Tips](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix C - Python & IPython Notebook Tips.html)
 
-## Blog & Screencasts
-
-Be sure to bookmark the [Mining the Social Web Vimeo Channel]() to stay up to date with short instructional videos that demonstrate how to use the tools in this repository. More screencasts are being added all the time, so check back often -- or better yet, subscribe to the channel. 
-
-<p align="center">
-<a href="https://vimeo.com/channels/MiningTheSocialWeb" target="_blank"><img src="https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/raw/master/images/screencast-installing-vm.png"
-alt="Installing the Virtual Machine" width="50%" height="50%" border="10" /></a><br />
-<em>A ~3 minute screencast on installing a powerful toolbox for social web mining.<br />
-View a collection of all available screencasts at http://bit.ly/mtsw2e-screencasts</em>
-</p>
-
-You might also benefit from the content that is being regularly added to the companion blog at http://MiningTheSocialWeb.com
-
 ## The _Mining the Social Web_ Virtual Machine
 
 _You may enjoy [this short screencast](https://vimeo.com/72383764) that demonstrates the step-by-step instructions involved in installing the book's virtual machine._
