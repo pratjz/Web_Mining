@@ -1,33 +1,7 @@
-Mining the Social Web (2nd Edition)
+Mining the Social Web
 =================================
 
-## Summary
-
-_Mining the Social Web, 2nd Edition_ is available through O'Reilly Media, Amazon, and other fine book retailers. [Purchasing the ebook directly from O'Reilly](http://bit.ly/135dHfs) offers a number of great benefits, including a variety of digital formats and continual updates to the text of book for life! Better yet, if you choose to use O'Reilly's DropBox or Google Drive synchronization, your ebooks will automatically update every time there's an update. In other words, you'll always have the latest version of the book if you purchase the ebook through O'Reilly, which is why it's the recommended option in comparison to a paper copy or other electronic version. (If you prefer a [paperback or Kindle version from Amazon](http://amzn.to/GPd59m), that's a fine option as well.)
-
-There's an incredible turn-key virtual machine experience for this second edition of the book that provides you with a powerful social web mining toolbox. This toolbox provides the ability to explore and run all of the source code in a hassle-free manner. All that you have to do is [follow a few simple steps](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix A - Virtual Machine Experience.html) to get the virtual machine installed, and you'll be running the example code in as little as 20-30 minutes. (And by the way, most of that time is waiting for files to download.)
-
-This [short screencast](https://vimeo.com/72383764) demonstrates the steps involved in installing the virtual machine, which installs every single dependency for you automatically and save you a lot of time. Even sophisticated power users tend to prefer using it versus using their own environments.
-
-If you experience any problems at all with installation of the virtual machine, file an issue here on GitHub. Be sure to also follow [@SocialWebMining](http://twitter.com/socialwebmining) on Twitter and like http://facebook.com/MiningTheSocialWeb on Facebook.
-
-Be sure to also visit http://MiningTheSocialWeb.com for additional content, news, and updates about the book and code in this GitHub repository.
-
-## Preview the Full-Text of Chapter 1 (Mining Twitter)
-
-Chapter 1 of the book provides a gentle introduction to hacking on Twitter data. It's available in a variety of convenient formats
-
-* A free [PDF download](http://bit.ly/135dHfs)
-* An [online ebook](http://bit.ly/1an184a) excerpt
-* An [IPython Notebook (ipynb) file](http://bit.ly/1aIXjFf)  (checked into this repository)
-
-Choose one, or choose them all. There's no better way to get started than following along with the opening chapter.
-
-## Preview the IPython Notebooks
-
-This edition of _Mining the Social Web_ extensively uses [IPython Notebook](http://ipython.org/notebook.html) to facilitate the learning and development process. If you're interested in what the example code for any particular chapter does, the best way to preview it is with the links below. When you're ready to develop, pull the source for this GitHub repository and follow the instructions for installing the virtual machine to get started.
-
-A bit.ly bundle of all of these links is also available: http://bit.ly/mtsw2e-ipynb
+[IPython Notebook](http://ipython.org/notebook.html)
 
 * [Chapter 0 - Preface](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/Chapter 0 - Preface.html)
 * [Chapter 1 - Mining Twitter: Exploring Trending Topics, Discovering What People Are Talking About, and More](https://rawgithub.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/Chapter 1 - Mining Twitter.html)
